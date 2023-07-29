@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runtheslope" alt="runtheslope" /></a> </p>
 
-- 🔭 I’m currently working on Windtunnel Management -Java project
+- 🔭 I’m currently working on Windtunnel Management system-Java project
 - 🌱 I’m currently learning **Java, SQL, Excel dax & Math**
 - 👯 I’m looking to collaborate on Java projects
 - 🤝 I’m looking for help with Java projects
