@@ -8,8 +8,7 @@
 
 - 🔭 I’m currently working on Windtunnel Management system - Java project
 - 🌱 I’m currently learning **Java, SQL, Excel dax & Math**
-- 👯 I’m looking to collaborate on Java projects
-- 🤝 I’m looking for help with Java projects
+- 👯 I’m looking to collaborate & help on Java/SQL/data analysis projects
 - 👨‍💻 All of my projects are available at https://github.com/RunTheSlope
 
 - 📫 How to reach me **salbibar@gmail.com**
