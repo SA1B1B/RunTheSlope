@@ -4,7 +4,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=runtheslope&label=Profile%20views&color=0e75b6&style=flat" alt="runtheslope" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=runtheslope" alt="runtheslope" /></a> </p>
 
 - 🔭 I’m currently working on Windtunnel Management system - Java project
 - 🌱 I’m currently learning **Java, SQL, Excel dax & Math**
