@@ -2,9 +2,6 @@
   Welcome</h1>
 <h3 align="center">A passionate Cs & Math student from Isreal</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=runtheslope&label=Profile%20views&color=0e75b6&style=flat" alt="runtheslope" /> </p>
-
-
 - 🔭 I’m currently working on Windtunnel Management system - Java project
 - 🌱 I’m currently learning **Java, SQL, Excel dax & Math**
 - 👯 I’m looking to collaborate & help on Java/SQL/data analysis projects
