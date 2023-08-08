@@ -2,9 +2,9 @@
   Welcome</h1>
 <h3 align="center">A passionate Cs & Math student from Isreal</h3>
 
-- 🔭 I’m currently working on Windtunnel Management system - Java project
-- 🌱 I’m currently learning **Java, SQL, Excel dax & Math**
-- 👯 I’m looking to collaborate & help on Java/SQL/data analysis projects
+- 🔭 I’m currently working on Bank management project.
+- 🌱 I’m currently learning **Math, Java, SQL, Excel dax &**
+- 👯 I’m looking to collaborate & help on Java/SQL/data-analysis.
 - 👨‍💻 All of my projects are available at https://github.com/RunTheSlope
 
 - 📫 How to reach me **salbibar@gmail.com**
