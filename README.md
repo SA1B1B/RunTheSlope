@@ -2,7 +2,7 @@
   Welcome</h1>
 <h3 align="center">A passionate Cs & Math student from Isreal</h3>
 
-- 🔭 I’m currently working on Bank management project.
+- 🔭 I’m currently working on ATM.
 - 🌱 I’m currently learning  everything 
 - 👯 I’m looking to collaborate & help on my projects(check out my repos).
 - 👨‍💻 All of my projects are available at https://github.com/RunTheSlope
