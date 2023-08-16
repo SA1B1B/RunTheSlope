@@ -1,6 +1,6 @@
 <h1 align="center">As-salamu alaykum 👋
   Welcome</h1>
-<h3 align="center">A passionate Cs & Math student from Isreal</h3>
+<h3 align="center">A passionate Math & CS student</h3>
 
 - 🔭 I’m currently working on ATM system & chess.
 - 🌱 I’m currently learning  everything 
