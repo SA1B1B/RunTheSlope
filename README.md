@@ -3,8 +3,7 @@
 <h3 align="center"></h3>
 
 - 🔭 I’m currently working on ATM system & chess.
-- 🌱 I’m currently learning  everything 
-- 👯 I’m looking to collaborate & help on my projects(check out my repos).
+- 👯 looking to collaborate & help on my projects(check out my pulls).
 - 👨‍💻 All of my projects are available at https://github.com/RunTheSlope
 
 - 📫 How to reach me **salbibar@gmail.com**
