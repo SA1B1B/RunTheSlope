@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working on ATM system & chess.
 - 👯 looking to collaborate & help on my projects(check out my pulls).
-- 👨‍💻 All of my projects are available at https://github.com/RunTheSlope
 
 - 📫 How to reach me **salbibar@gmail.com**
 
