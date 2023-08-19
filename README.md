@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on ATM system & chess.
 - 👯 looking to collaborate & help on my projects(check out my pulls).
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/saleem-bibar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saleem bibar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sale.top.750/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saleem bibar" height="30" width="40" /></a>
