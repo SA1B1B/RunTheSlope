@@ -2,8 +2,6 @@
   Welcome</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on ATM system & chess.
-- 👯 looking to collaborate & help on my projects(check out my pulls).
 
 <h3 align="left">Connect:</h3>
 <p align="left">
