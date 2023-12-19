@@ -10,8 +10,4 @@
 - **Description:** This packet sniffer tool allows us to capture and analyze network packets. It provides functionality to filter packets based on different protocols, extract specific data from packet payloads, and save captured packets for further analysis.
 - **Technologies Used:** Developed in Python using Scapy.
 - **GitHub Repository:** [Packet Sniffer GitHub Repository](https://github.com/RunTheSlope/Packet-Sniffer)
-
-### name it
-- Description: 
-- Technologies Used: 
-- GitHub Repository: 
+ 
