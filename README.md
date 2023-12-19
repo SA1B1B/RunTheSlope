@@ -24,15 +24,14 @@ I am dedicated to learning and contributing to the field, aiming to leverage my 
 - **Technologies Used:** Developed in Python using Scapy.
 - **GitHub Repository:** [Packet Sniffer GitHub Repository](https://github.com/RunTheSlope/Packet-Sniffer)
 
-### Packet Sniffer Tool
-- Description: This packet sniffer tool allows us to capture and analyze network packets. It provides functionality to filter packets based on different protocols, extract specific data from packet payloads, and save captured packets for further analysis.
-- Technologies Used: developed in Python using Scapy.
-- GitHub Repository: https://github.com/RunTheSlope/Packet-Sniffer
+### name it
+- Description: 
+- Technologies Used: 
+- GitHub Repository: 
 
 ## Certifications
 - **CCNA (Cisco Certified Network Associate):** Proficiency in networking fundamentals, routing, switching, and network security.
 - **CompTIA Security+:** Demonstrated knowledge in cybersecurity principles, threat management, cryptography, and risk mitigation.
-
 
 Thank you for visiting my GitHub page! 🛡️
 
